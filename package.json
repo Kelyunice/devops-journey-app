@@ -1,0 +1,9 @@
+{
+  "name": "devops-journey-app",
+  "version": "1.0.0",
+  "description": "A simple container deployment and troubleshooting project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
